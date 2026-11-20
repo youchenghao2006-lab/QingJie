@@ -1,0 +1,14 @@
+# Program and test build outputs
+*.exe
+*.pdb
+/bin/
+/obj/
+
+# Runtime data in the portable app directory
+/settings.ini
+/历史记录/
+
+# Local editor and development settings
+/.vs/
+*.user
+*.suo
